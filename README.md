@@ -1,2 +1,2 @@
-# https://edits.org 
+# https://www.threads.com/@jaysonscottheise
 software

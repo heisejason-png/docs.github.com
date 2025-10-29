@@ -1,2 +1,2 @@
-# https://docs.github.com/atlassian.net
+# https://shanazelstar.atlassian.net
 software

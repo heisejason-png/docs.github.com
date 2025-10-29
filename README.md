@@ -1,2 +1,2 @@
-# https://dics.github.com/atlassian.net
+# https://docs.github.com/atlassian.net
 software

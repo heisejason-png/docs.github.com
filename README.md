@@ -1,2 +1,2 @@
-# https://www.threads.com/@jaysonscottheise
+# https://dics.github.com/atlassian.net
 software
